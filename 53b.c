@@ -19,7 +19,7 @@ int main()
 {
     struct itimerval timer;
     timer.it_value.tv_sec = 10; // 10 seconds
-    timer.it_value.tv_usec = 0;
+    timer.it_value.tv_usec = 10;
     timer.it_interval.tv_sec = 0; // One-time timer
     timer.it_interval.tv_usec = 0;
 
