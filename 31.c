@@ -3,6 +3,7 @@ Student Name: Sathish Adithiyaa SV; Register Number: IMT2023030
 Date: 11-5-2025
 Description: This program demonstrates creation of a pipe, writing to it, reading from it, and displaying the output.
 */
+//Test commit
 
 #include <stdio.h>
 #include <unistd.h>
